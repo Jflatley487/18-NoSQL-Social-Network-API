@@ -20,4 +20,4 @@ The server should now be running locally on http://localhost:3001. You can use A
 
 # Video Walkthrough
 
-[Link Text](https://watch.screencastify.com/v/y390UPLe3C67aQq1OlhH)
+Please refer to the following walkthrough video for a demonstration: [click here!](https://watch.screencastify.com/v/y390UPLe3C67aQq1OlhH)
